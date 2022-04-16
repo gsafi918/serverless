@@ -24,6 +24,7 @@ namespace Company.Function
             else
             {
                 return new OkObjectResult(rating);
+                //comment added before committing for the second time
             }
         }
     }
